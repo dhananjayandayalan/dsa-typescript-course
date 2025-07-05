@@ -10,11 +10,11 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 
 ### **Patterns Covered:** Hash Maps, Two Pointers, String Manipulation, Stack, Array Operations, Frequency Counting
 
-| # | Question | Pattern | Difficulty | Key Learning |
-|---|----------|---------|------------|--------------|
-| 01 | Two Sum | Hash Map | Easy | O(n) time with complement tracking |
-| 02 | Valid Parentheses | Stack | Easy | LIFO operations for matching pairs |
-| 03 | Remove Duplicates | Two Pointers | Easy | In-place array modification |
+| # | Question | Pattern | Difficulty | Key Learning | Type |
+|---|----------|---------|------------|--------------|------|
+| 01 | Two Sum | Hash Map | Easy | O(n) time with complement tracking | Free |
+| 02 | Valid Parentheses | Stack | Easy | LIFO operations for matching pairs | Free |
+| 03 | Remove Duplicates | Two Pointers | Easy | In-place array modification | Free |
 | 04 | Roman to Integer | String Parsing | Easy | Character mapping and subtraction rules |
 | 05 | Longest Common Prefix | String Comparison | Easy | Horizontal/Vertical scanning |
 | 06 | Palindrome Number | Number Manipulation | Easy | Digit extraction and reversal |
@@ -37,6 +37,16 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | Count and Say | String Generation | Easy | Recursive string generation |
 | 24 | Zigzag Conversion | String Manipulation | Medium | Pattern-based string arrangement |
 | 25 | Integer to Roman | String Generation | Medium | Reverse of Roman to Integer |
+| 26 | Read N Characters Given Read4 | String Manipulation | Easy | Buffer reading simulation | 🔒 Premium |
+| 27 | Read N Characters Given Read4 II | String Manipulation | Hard | Multiple call buffer handling | 🔒 Premium |
+| 28 | One Edit Distance | String Comparison | Medium | String difference checking | 🔒 Premium |
+| 29 | Missing Ranges | Array Manipulation | Easy | Range generation | 🔒 Premium |
+| 30 | Moving Average from Data Stream | Sliding Window | Easy | Fixed window average | 🔒 Premium |
+| 31 | Valid Word Abbreviation | String Validation | Easy | Abbreviation rules checking | 🔒 Premium |
+| 32 | String Compression II | Dynamic Programming | Hard | Optimal compression with k deletions | 🔒 Premium |
+| 33 | Dot Product of Two Sparse Vectors | Array Operations | Medium | Sparse vector optimization | 🔒 Premium |
+| 34 | Design Compressed String Iterator | String Iterator | Easy | Compressed string traversal | 🔒 Premium |
+| 35 | Longest Substring with At Most K Distinct Characters | Sliding Window | Medium | K-distinct character window | 🔒 Premium |
 
 ---
 
@@ -71,6 +81,16 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | Maximum Product of Three Numbers | Three Pointers | Easy | Product optimization |
 | 24 | Array Partition I | Two Pointers | Easy | Greedy pairing |
 | 25 | Reshape the Matrix | Two Pointers | Easy | Matrix reshaping |
+| 26 | Two Sum Less Than K | Two Pointers | Easy | Finding pairs below threshold | 🔒 Premium |
+| 27 | Valid Word Abbreviation | Two Pointers | Easy | String matching with numbers | 🔒 Premium |
+| 28 | Missing Range | Two Pointers | Easy | Range generation | 🔒 Premium |
+| 29 | Sentence Similarity | Two Pointers | Easy | Word pair matching | 🔒 Premium |
+| 30 | Moving Average from Data Stream | Two Pointers | Easy | Sliding window average | 🔒 Premium |
+| 31 | Number of Connected Components | Two Pointers | Medium | Graph component counting | 🔒 Premium |
+| 32 | Meeting Rooms II | Two Pointers | Medium | Meeting overlap detection | 🔒 Premium |
+| 33 | Paint House | Two Pointers | Medium | Cost minimization | 🔒 Premium |
+| 34 | Shortest Distance from All Buildings | Two Pointers | Hard | BFS with multiple sources | 🔒 Premium |
+| 35 | Find the Celebrity | Two Pointers | Medium | Celebrity identification | 🔒 Premium |
 
 ---
 
@@ -105,6 +125,17 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | Longest Substring with At Least K Repeating Characters | Variable Window | Medium | Character frequency |
 | 24 | Subarray Sums Divisible by K | Fixed Window | Medium | Modulo arithmetic |
 | 25 | Maximum Sum of Two Non-Overlapping Subarrays | Fixed Window | Medium | Two window strategy |
+| 26 | Sliding Window Maximum | Fixed Window | Hard | Deque optimization | 🔒 Premium |
+| 27 | Sliding Window Median | Fixed Window | Hard | Two heaps approach | 🔒 Premium |
+| 28 | Moving Average from Data Stream | Fixed Window | Easy | Circular buffer | 🔒 Premium |
+| 29 | Paint House | Variable Window | Medium | Cost minimization | 🔒 Premium |
+| 30 | Paint House II | Variable Window | Hard | Cost minimization with k colors | 🔒 Premium |
+| 31 | Longest Substring with At Most K Distinct Characters | Variable Window | Medium | Character frequency | 🔒 Premium |
+| 32 | Shortest Distance from All Buildings | Variable Window | Hard | BFS with multiple sources | 🔒 Premium |
+| 33 | Minimum Window Subsequence | Variable Window | Hard | Two pointer subsequence | 🔒 Premium |
+| 34 | Max Consecutive Ones II | Variable Window | Medium | Flip optimization | 🔒 Premium |
+| 35 | Max Consecutive Ones III | Variable Window | Medium | K flips optimization | 🔒 Premium |
+
 
 ---
 
@@ -139,6 +170,17 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | H-Index II | Binary Search | Medium | Citation counting |
 | 24 | Find Right Interval | Binary Search | Medium | Interval mapping |
 | 25 | Time Based Key-Value Store | Binary Search | Medium | Timestamp search |
+| 26 | Find K-th Smallest Pair Distance | Binary Search | Hard | Distance array search | 🔒 Premium |
+| 27 | Missing Element in Sorted Array | Binary Search | Medium | Index mapping | 🔒 Premium |
+| 28 | First Element Not Smaller Than Target | Binary Search | Medium | Ceiling element | 🔒 Premium |
+| 29 | Closest Binary Search Tree Value | Binary Search | Easy | BST traversal | 🔒 Premium |
+| 30 | Closest Binary Search Tree Value II | Binary Search | Hard | K closest values | 🔒 Premium |
+| 31 | Valid Number | Binary Search | Hard | Number validation | 🔒 Premium |
+| 32 | Count of Range Sum | Binary Search | Hard | Prefix sum with BS | 🔒 Premium |
+| 33 | Russian Doll Envelopes | Binary Search | Hard | LIS with 2D sorting | 🔒 Premium |
+| 34 | Maximum Average Subarray II | Binary Search | Hard | Binary search on answer | 🔒 Premium |
+| 35 | Shortest Distance to Target Color | Binary Search | Medium | Color distance | 🔒 Premium |
+
 
 ---
 
@@ -173,6 +215,17 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | Delete Node in a Linked List | List Manipulation | Easy | Value copying |
 | 24 | Middle of the Linked List | Fast/Slow Pointers | Easy | Middle element finding |
 | 25 | Convert Binary Number in a Linked List to Integer | List Traversal | Easy | Binary to decimal |
+| 26 | Linked List Components | List Traversal | Medium | Connected components | 🔒 Premium |
+| 27 | Split Linked List in Parts | List Manipulation | Medium | Equal parts division | 🔒 Premium |
+| 28 | Design Linked List | List Implementation | Medium | Custom list design | 🔒 Premium |
+| 29 | Reverse Linked List II | List Manipulation | Medium | Partial reversal | 🔒 Premium |
+| 30 | Remove Zero Sum Consecutive Nodes | List Traversal | Medium | Prefix sum with lists | 🔒 Premium |
+| 31 | Next Greater Node In Linked List | List Traversal | Medium | Monotonic stack with lists | 🔒 Premium |
+| 32 | Convert Binary Search Tree to Sorted Doubly Linked List | Tree to List | Medium | Inorder traversal | 🔒 Premium |
+| 33 | Linked List in Binary Tree | List & Tree | Medium | Path matching | 🔒 Premium |
+| 34 | Design Phone Directory | List Design | Medium | Available number tracking | 🔒 Premium |
+| 35 | Plus One Linked List | List Traversal | Medium | Carry handling | 🔒 Premium |
+
 
 ---
 
@@ -207,6 +260,17 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | Design Tic-Tac-Toe | Queue Operations | Medium | Game state tracking |
 | 24 | Design Phone Directory | Queue Operations | Medium | Available number management |
 | 25 | Design Logger Rate Limiter | Queue Operations | Easy | Rate limiting |
+| 26 | Design Front Middle Back Queue | Queue Implementation | Medium | Three-part queue | 🔒 Premium |
+| 27 | Number of Recent Calls | Queue Operations | Easy | Time window tracking | 🔒 Premium |
+| 28 | Design Bounded Blocking Queue | Queue Implementation | Medium | Thread-safe queue | 🔒 Premium |
+| 29 | Design Compressed String Iterator | Queue Operations | Easy | String compression | 🔒 Premium |
+| 30 | First Unique Number | Queue Operations | Medium | Unique number tracking | 🔒 Premium |
+| 31 | Maximum Frequency Stack | Stack Operations | Hard | Frequency-based stack | 🔒 Premium |
+| 32 | Exclusive Time of Functions | Stack Operations | Medium | Function execution time | 🔒 Premium |
+| 33 | Flatten 2D Vector | Queue Operations | Medium | 2D array flattening | 🔒 Premium |
+| 34 | Zigzag Iterator | Queue Operations | Medium | Alternating iteration | 🔒 Premium |
+| 35 | Implement Queue using Array | Queue Implementation | Easy | Array-based queue | 🔒 Premium |
+
 
 ---
 
@@ -241,6 +305,17 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | Count Univalue Subtrees | Tree Traversal | Medium | Univalue subtree counting |
 | 24 | Find Leaves of Binary Tree | Tree Traversal | Medium | Height-based grouping |
 | 25 | Binary Tree Upside Down | Tree Manipulation | Medium | Tree rotation |
+| 26 | Binary Tree Longest Consecutive Sequence | Tree Traversal | Medium | Consecutive path tracking | 🔒 Premium |
+| 27 | Closest Binary Search Tree Value | BST Search | Easy | Binary search in BST | 🔒 Premium |
+| 28 | Closest Binary Search Tree Value II | BST Search | Hard | K closest values in BST | 🔒 Premium |
+| 29 | Inorder Successor in BST | BST Traversal | Medium | Next larger value | 🔒 Premium |
+| 30 | Verify Preorder Sequence in BST | BST Validation | Medium | Preorder validation | 🔒 Premium |
+| 31 | Binary Tree Vertical Order Traversal | Tree Traversal | Medium | Column-based traversal | 🔒 Premium |
+| 32 | Boundary of Binary Tree | Tree Traversal | Medium | Boundary node collection | 🔒 Premium |
+| 33 | Binary Tree Longest Consecutive Sequence II | Tree Traversal | Medium | Bidirectional sequence | 🔒 Premium |
+| 34 | Find Leaves of Binary Tree | Tree Traversal | Medium | Bottom-up collection | 🔒 Premium |
+| 35 | Binary Tree Paths | Tree Traversal | Easy | All root-to-leaf paths | 🔒 Premium |
+
 
 ---
 
@@ -275,6 +350,17 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | Design Front Middle Back Queue | Priority Queue | Medium | Multi-end queue |
 | 24 | Design Circular Queue | Priority Queue | Medium | Circular buffer |
 | 25 | Design Circular Deque | Priority Queue | Medium | Double-ended circular queue |
+| 26 | Find K-th Smallest Pair Distance | Priority Queue | Hard | Distance-based pairs | 🔒 Premium |
+| 27 | IPO | Priority Queue | Hard | Capital maximization | 🔒 Premium |
+| 28 | Minimum Cost to Hire K Workers | Priority Queue | Hard | Worker selection | 🔒 Premium |
+| 29 | Rearrange String k Distance Apart | Priority Queue | Hard | String rearrangement | 🔒 Premium |
+| 30 | Meeting Rooms II | Priority Queue | Medium | Meeting scheduling | 🔒 Premium |
+| 31 | Employee Free Time | Priority Queue | Hard | Free interval finding | 🔒 Premium |
+| 32 | Maximum Average Score | Priority Queue | Medium | Score optimization | 🔒 Premium |
+| 33 | Design Phone Directory | Priority Queue | Medium | Number allocation | 🔒 Premium |
+| 34 | Design Excel Sum Formula | Priority Queue | Hard | Cell dependencies | 🔒 Premium |
+| 35 | Design Snake Game | Priority Queue | Medium | Snake movement tracking | 🔒 Premium |
+
 
 ---
 
@@ -309,6 +395,17 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | Redundant Connection II | Union Find | Hard | Directed graph cycle |
 | 24 | Most Stones Removed with Same Row or Column | Union Find | Medium | Stone connectivity |
 | 25 | Regions Cut By Slashes | Union Find | Hard | Grid connectivity |
+| 26 | Optimize Water Distribution | Union Find | Hard | Water supply optimization | 🔒 Premium |
+| 27 | Minimum Cost to Connect All Points | Union Find | Medium | Point connectivity | 🔒 Premium |
+| 28 | Number of Connected Components in Graph | Union Find | Medium | Component counting | 🔒 Premium |
+| 29 | Graph Valid Tree II | Union Find | Hard | Tree validation with conditions | 🔒 Premium |
+| 30 | Minimum Spanning Tree | Union Find | Medium | MST construction | 🔒 Premium |
+| 31 | Similar String Groups | Union Find | Hard | String similarity grouping | 🔒 Premium |
+| 32 | Evaluate Division | Union Find | Medium | Variable equation solving | 🔒 Premium |
+| 33 | Connecting Cities With Minimum Cost | Union Find | Medium | City connectivity | 🔒 Premium |
+| 34 | Number of Operations to Make Network Connected | Union Find | Medium | Network connectivity | 🔒 Premium |
+| 35 | Find Critical and Pseudo-Critical Edges in MST | Union Find | Hard | Edge classification | 🔒 Premium |
+
 
 ---
 
@@ -343,6 +440,17 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | Palindromic Substrings | 2D DP | Medium | All palindrome counting |
 | 24 | Minimum Path Sum | 2D DP | Medium | Grid path optimization |
 | 25 | Dungeon Game | 2D DP | Hard | Reverse DP |
+| 26 | Paint House | 1D DP | Medium | Color sequence optimization | 🔒 Premium |
+| 27 | Paint House II | 1D DP | Hard | K colors optimization | 🔒 Premium |
+| 28 | Paint Fence | 1D DP | Medium | Adjacent color constraints | 🔒 Premium |
+| 29 | Bomb Enemy | 2D DP | Medium | Grid enemy counting | 🔒 Premium |
+| 30 | Sentence Screen Fitting | 2D DP | Medium | Screen text fitting | 🔒 Premium |
+| 31 | Can I Win | 1D DP | Medium | Game theory with state | 🔒 Premium |
+| 32 | Encode String with Shortest Length | 2D DP | Hard | String compression | 🔒 Premium |
+| 33 | Number of Corner Rectangles | 2D DP | Medium | Rectangle counting | 🔒 Premium |
+| 34 | Minimum Cost to Hire K Workers | 1D DP | Hard | Worker cost optimization | 🔒 Premium |
+| 35 | Handshakes That Don't Cross | 1D DP | Hard | Non-crossing pairing | 🔒 Premium |
+
 
 ---
 
@@ -377,6 +485,17 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | Flip Game | Backtracking | Easy | Game state exploration |
 | 24 | Flip Game II | Backtracking | Medium | Winning strategy |
 | 25 | Android Unlock Patterns | Backtracking | Medium | Pattern counting |
+| 26 | Word Pattern II | Backtracking | Hard | Pattern matching with backtracking | 🔒 Premium |
+| 27 | Generalized Abbreviation | Backtracking | Medium | Word abbreviation generation | 🔒 Premium |
+| 28 | Expression Add Operators | Backtracking | Hard | Expression building with operators | 🔒 Premium |
+| 29 | Strobogrammatic Number II | Backtracking | Medium | Strobogrammatic number generation | 🔒 Premium |
+| 30 | Factor Combinations | Backtracking | Medium | Number factorization | 🔒 Premium |
+| 31 | Closest Leaf in a Binary Tree | Backtracking | Medium | Tree traversal with backtracking | 🔒 Premium |
+| 32 | Nested List Weight Sum II | Backtracking | Medium | Nested list traversal | 🔒 Premium |
+| 33 | Find Leaves of Binary Tree | Backtracking | Medium | Bottom-up tree traversal | 🔒 Premium |
+| 34 | Number of Distinct Islands | Backtracking | Medium | Island shape identification | 🔒 Premium |
+| 35 | Shortest Distance from All Buildings | Backtracking | Hard | Multi-source BFS with backtracking | 🔒 Premium |
+
 
 ---
 
@@ -411,6 +530,17 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | Wiggle Sort | Greedy | Medium | Alternating sort |
 | 24 | Wiggle Sort II | Greedy | Medium | Alternating sort with duplicates |
 | 25 | Assign Cookies | Greedy | Easy | Cookie distribution |
+| 26 | Meeting Rooms | Greedy | Easy | Interval scheduling basics | 🔒 Premium |
+| 27 | Meeting Rooms II | Greedy | Medium | Room allocation optimization | 🔒 Premium |
+| 28 | Paint House | Greedy | Medium | Cost minimization | 🔒 Premium |
+| 29 | Paint House II | Greedy | Hard | Multi-color cost optimization | 🔒 Premium |
+| 30 | Paint Fence | Greedy | Medium | Adjacent color constraints | 🔒 Premium |
+| 31 | Maximum Vacation Days | Greedy | Hard | Vacation planning | 🔒 Premium |
+| 32 | Employee Free Time | Greedy | Hard | Common free intervals | 🔒 Premium |
+| 33 | Minimum Cost to Hire K Workers | Greedy | Hard | Worker selection | 🔒 Premium |
+| 34 | IPO | Greedy | Hard | Project selection | 🔒 Premium |
+| 35 | Campus Bikes | Greedy | Medium | Bike assignment | 🔒 Premium |
+
 
 ---
 
@@ -445,6 +575,17 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | Hamming Distance | Bit Manipulation | Easy | Bit difference |
 | 24 | Total Hamming Distance | Bit Manipulation | Medium | Pairwise distance |
 | 25 | Binary Number with Alternating Bits | Bit Manipulation | Easy | Alternating pattern |
+| 26 | Maximum XOR Product | Bit Manipulation | Hard | XOR optimization | 🔒 Premium |
+| 27 | Minimum Flips to Make a OR b Equal to c | Bit Manipulation | Medium | Bit flipping | 🔒 Premium |
+| 28 | Find the Original Array of Prefix Xor | Bit Manipulation | Medium | XOR prefix array | 🔒 Premium |
+| 29 | Minimum One Bit Operations to Make Integers Zero | Bit Manipulation | Hard | Gray code operations | 🔒 Premium |
+| 30 | Minimum Number of K Consecutive Bit Flips | Bit Manipulation | Hard | Sliding window bits | 🔒 Premium |
+| 31 | Binary Watch | Bit Manipulation | Easy | Time combinations | 🔒 Premium |
+| 32 | IP to CIDR | Bit Manipulation | Medium | Network addressing | 🔒 Premium |
+| 33 | Shortest Path Visiting All Nodes | Bit Manipulation | Hard | State compression | 🔒 Premium |
+| 34 | Smallest Sufficient Team | Bit Manipulation | Hard | Team selection | 🔒 Premium |
+| 35 | Maximum Score Words Formed by Letters | Bit Manipulation | Hard | Word selection | 🔒 Premium |
+
 
 ---
 
@@ -479,6 +620,17 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | Bulb Switcher | Math | Medium | Perfect square factors |
 | 24 | Bulb Switcher II | Math | Medium | State analysis |
 | 25 | Rectangle Area | Math | Easy | Overlapping area |
+| 26 | Confusing Number | Math | Easy | Digit rotation | 🔒 Premium |
+| 27 | Confusing Number II | Math | Hard | Digit rotation combinations | 🔒 Premium |
+| 28 | Strobogrammatic Number | Math | Easy | Rotated number validation | 🔒 Premium |
+| 29 | Strobogrammatic Number II | Math | Medium | Generate rotated numbers | 🔒 Premium |
+| 30 | Strobogrammatic Number III | Math | Hard | Count rotated numbers in range | 🔒 Premium |
+| 31 | Encode Number | Math | Medium | Binary encoding | 🔒 Premium |
+| 32 | Minimum Moves to Reach Target Score | Math | Medium | Greedy division | 🔒 Premium |
+| 33 | Minimum Moves to Make Array Complementary | Math | Medium | Range addition | 🔒 Premium |
+| 34 | Minimum Operations to Make Array Equal | Math | Medium | Arithmetic sequence | 🔒 Premium |
+| 35 | Minimum Operations to Reduce X to Zero | Math | Medium | Two pointers with sum | 🔒 Premium |
+
 
 ---
 
@@ -513,6 +665,17 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | Design File System | Design | Medium | File system hierarchy |
 | 24 | Design Search Autocomplete System | Design | Hard | Autocomplete with trie |
 | 25 | Design In-Memory File System | Design | Medium | File system simulation |
+| 26 | Design Compressed String Iterator | Design | Easy | Compressed string traversal | 🔒 Premium |
+| 27 | Design Excel Sum Formula | Design | Hard | Excel formula evaluation | 🔒 Premium |
+| 28 | Design Log Storage System | Design | Medium | Time-based log storage | 🔒 Premium |
+| 29 | Design Bounded Blocking Queue | Design | Medium | Thread-safe queue | 🔒 Premium |
+| 30 | Design Movie Rental System | Design | Hard | Movie rental tracking | 🔒 Premium |
+| 31 | Design A Number Container System | Design | Medium | Number container management | 🔒 Premium |
+| 32 | Design Video Sharing Platform | Design | Hard | Video platform system | 🔒 Premium |
+| 33 | Design Most Recently Used Queue | Design | Medium | MRU queue implementation | 🔒 Premium |
+| 34 | Design Memory Allocator | Design | Medium | Memory block allocation | 🔒 Premium |
+| 35 | Design File Sharing System | Design | Medium | File sharing management | 🔒 Premium |
+
 
 ---
 
@@ -547,6 +710,17 @@ This roadmap covers all questions across 16 categories, designed to teach you ev
 | 23 | Word Ladder | BFS | Hard | Word transformation |
 | 24 | Serialize and Deserialize Binary Tree | Tree Serialization | Hard | String representation |
 | 25 | Binary Tree Maximum Path Sum | Tree Traversal | Hard | Path sum optimization |
+| 26 | Shortest Distance from All Buildings | BFS | Hard | Multi-source BFS | 🔒 Premium |
+| 27 | Optimal Account Balancing | DFS | Hard | Debt settlement | 🔒 Premium |
+| 28 | Minimum Cost to Make at Least One Valid Path | Dijkstra | Hard | Grid path finding | 🔒 Premium |
+| 29 | Number of Connected Components in Graph | Union Find | Medium | Graph components | 🔒 Premium |
+| 30 | Paint House II | DP | Hard | Color optimization | 🔒 Premium |
+| 31 | Encode String with Shortest Length | DP | Hard | String compression | 🔒 Premium |
+| 32 | Design In-Memory File System | Design | Hard | File system design | 🔒 Premium |
+| 33 | Find the Celebrity | Two Pointers | Medium | Celebrity finding | 🔒 Premium |
+| 34 | Maximum Average Subarray II | Binary Search | Hard | Subarray optimization | 🔒 Premium |
+| 35 | Closest Binary Search Tree Value II | Tree | Hard | BST k-closest values | 🔒 Premium |
+
 
 ---
 
